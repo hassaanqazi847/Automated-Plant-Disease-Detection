@@ -4,17 +4,18 @@ A deep learning project to classify potato plant leaves into **Early Blight**, *
 
 ---
 
-## 📌 Project Overview
-Potato is one of the most widely consumed crops, but its yield is heavily affected by diseases like **Early Blight** and **Late Blight**.  
-This project leverages **Convolutional Neural Networks (CNNs)** to automatically detect potato leaf diseases from images.
-
----
 
 ### 📸 Application Screenshot
 
 Here is the interface of the Potato Disease Detection App:
 
-![App Screenshot](images/app - demo -pic.PNG
+![App Screenshot](images/app - demo -pic.PNG)
+
+---
+
+## 📌 Project Overview
+Potato is one of the most widely consumed crops, but its yield is heavily affected by diseases like **Early Blight** and **Late Blight**.  
+This project leverages **Convolutional Neural Networks (CNNs)** to automatically detect potato leaf diseases from images.
 
 ---
 

@@ -11,7 +11,7 @@ This project leverages **Convolutional Neural Networks (CNNs)** to automatically
 ---
 
  ## Screenshot of the app:  
-![App Screenshot](Capture....PNG)
+![App Screenshot](app - demo -pic.PNG)
 
 ---
 

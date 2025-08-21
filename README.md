@@ -6,7 +6,7 @@ A deep learning project to classify potato plant leaves into **Early Blight**, *
 
 
  ## Demonstration of the app:  
-![App Screenshot](app - demo -pic.PNG)
+![App Screenshot](app-demo-pic.PNG)
 
 
 ---

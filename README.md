@@ -32,8 +32,4 @@ This project leverages **Convolutional Neural Networks (CNNs)** to automatically
 
 ---
 
-## Installation
-Clone this repository:
-```bash
-git clone https://github.com/your-username/potato-disease-detection.git
-cd potato-disease-detection
+

@@ -9,7 +9,7 @@ A deep learning project to classify potato plant leaves into **Early Blight**, *
 
 Here is the interface of the Potato Disease Detection App:
 
-![App Screenshot](images/app - demo -pic.PNG)
+![App Screenshot](app - demo -pic.PNG)
 
 ---
 

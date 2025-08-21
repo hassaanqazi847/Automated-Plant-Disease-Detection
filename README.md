@@ -10,6 +10,11 @@ This project leverages **Convolutional Neural Networks (CNNs)** to automatically
 
 ---
 
+ ## Screenshot of the app:  
+![App Screenshot](Capture....PNG)
+
+---
+
 ## 🚀 Features
 - Classifies potato leaves into:
   - ✅ Healthy

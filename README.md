@@ -5,11 +5,9 @@ A deep learning project to classify potato plant leaves into **Early Blight**, *
 ---
 
 
-### 📸 Application Screenshot
-
-Here is the interface of the Potato Disease Detection App:
-
+ ## Demonstration of the app:  
 ![App Screenshot](app - demo -pic.PNG)
+
 
 ---
 

@@ -10,8 +10,11 @@ This project leverages **Convolutional Neural Networks (CNNs)** to automatically
 
 ---
 
- ## Screenshot of the app:  
-![App Screenshot](app - demo -pic.PNG)
+### 📸 Application Screenshot
+
+Here is the interface of the Potato Disease Detection App:
+
+![App Screenshot](images/app - demo -pic.PNG
 
 ---
 
